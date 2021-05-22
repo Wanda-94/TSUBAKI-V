@@ -1,7 +1,7 @@
 #ignore folder
 
-./vs
-./out
+.vs/
+out/
 
 #ignore file
 
