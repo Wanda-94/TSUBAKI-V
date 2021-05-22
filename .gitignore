@@ -1,0 +1,12 @@
+#ignore folder
+
+./vs
+./out
+
+#ignore file
+
+*.dll
+*.lib
+*.exe
+*.png
+*.jpg
